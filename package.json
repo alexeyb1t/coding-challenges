@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "ts": "tsc -p .",
-    "tsw": "npm run ts -- --watch"
+    "tsw": "npm run ts -- --watch",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
